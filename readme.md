@@ -194,11 +194,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact
 
-For any questions, suggestions, or improvements, please feel free to contact me at [your_email@example.com].
 
----
+
 
 Thank you for checking out **Deepfake Duel: Truth vs. Trickery**. I look forward to your feedback!
 
